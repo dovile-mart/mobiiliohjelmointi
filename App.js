@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Expo appin testaus</Text>
+      <Text>Toinen rivi</Text>
       <StatusBar style="auto" />
     </View>
   );
